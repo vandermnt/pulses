@@ -25,7 +25,7 @@ php artisan key:generate
 ~~~
 
 <p>🔹Importe os scripts que está na pasta <b>scripts-db</b>;</p>
-<p>🔹Feito isso configure o arquivo .env; </p>
+<p>🔹Configure o arquivo .env (arquivo o qual é configurado as variáveis de ambiente); </p>
 <p>🔹Starte a back-end com o comando:
 
 ~~~html
