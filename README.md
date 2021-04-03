@@ -10,6 +10,12 @@
 
 <h1>🛠 Preparando Ambiente </h1>
 
+<h3> Requisitos </h3>
+* PHP
+* Laravel
+* VueJS
+* Mysql
+
 Temos dois projetos, um de back-end e um de front-end. 
 Back-end é feito com <a href="https://www.php.net/manual/pt_BR/intro-whatis.php">PHP</a> agregado ao framework <a href="https://laravel.com/">Laravel</a>, já o front-end é feito com <a href="https://vuejs.org/">VueJS</a>.
 <p>🔹Após clonar o back-end, baixe as depedências do Laravel:</p>
