@@ -13,14 +13,34 @@
 
 Temos dois projetos, um de back-end e um de front-end. 
 Back-end é feito com PHP agregado ao framework Laravel, já o front-end é feito com VueJS.
-<p>🔹Após baixar o back-end, baixe as depedências do projeto:</p>
+<p>🔹Após clonar o back-end, baixe as depedências do projeto:</p>
 
 ~~~html
 php composer.phar install
 ~~~
 <p>🔹Importe os scripts que está na pasta <b>scripts-db</b>;</p>
 <p>🔹Feito isso configure o arquivo .env com as credenciais do banco de dado; </p>
-<p>🔹Starte a back-end com o comando <b>php artisan serve</b> </p>
+<p>🔹Starte a back-end com o comando:
+
+~~~html
+php artisan serve
+~~~ 
+
 <img src="api">
 
+<p> Desde então temos nosso back-end startado, agora precisamos startar nosso front-end </p>
+<p>🔹Clone o front-end;</p>
+<p>🔹Baixa as depedências do projeto: </p>
+
+~~~html
+npm install
+~~~
+
+<p>🔹Starte o front-end com o comando:
+  
+~~~html
+npm run server
+~~~
+
+<img src="front.gif">
 
