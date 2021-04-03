@@ -14,7 +14,10 @@
 Temos dois projetos, um de back-end e um de front-end. 
 Back-end é feito com PHP agregado ao framework Laravel, já o front-end é feito com VueJS.
 <p>🔹Após baixar o back-end, baixe as depedências do projeto:</p>
-<h4>php composer.phar install</h4>
+
+~~~html
+php composer.phar install
+~~~
 <p>🔹Importe os scripts que está na pasta <b>scripts-db</b>;</p>
 <p>🔹Feito isso configure o arquivo .env com as credenciais do banco de dado; </p>
 <p>🔹Starte a back-end com o comando <b>php artisan serve</b> </p>
