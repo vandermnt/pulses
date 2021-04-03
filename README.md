@@ -10,7 +10,7 @@
 
 <h1>🛠 Preparando Ambiente </h1>
 
-<h3> Requisitos </h3>
+<h3>❗ Requisitos </h3>
 
 - <a href="https://www.php.net/manual/pt_BR/intro-whatis.php">PHP</a>
 - <a href="https://laravel.com/">Laravel</a>
