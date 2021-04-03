@@ -13,11 +13,19 @@
 Temos dois projetos, um de back-end e um de front-end. 
 Back-end é feito com PHP agregado ao framework Laravel, já o front-end é feito com VueJS.
 <p>🔹Após clonar o back-end, baixe as depedências do Laravel:</p>
-`composer install`
+
+~~~html
+composer install
+~~~
+
 <p>🔹Gere uma chave para o projeto:</p>
-`php artisan key:generate`
+
+~~~html
+php artisan key:generate
+~~~
+
 <p>🔹Importe os scripts que está na pasta <b>scripts-db</b>;</p>
-<p>🔹Feito isso configure o arquivo .env com as credenciais do banco de dado; </p>
+<p>🔹Feito isso configure o arquivo .env; </p>
 <p>🔹Starte a back-end com o comando:
 
 `php artisan serve`
