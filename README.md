@@ -18,6 +18,6 @@ Back-end é feito com PHP agregado ao framework Laravel, já o front-end é feit
 <p>🔹Importe os scripts que está na pasta <b>scripts-db</b>;</p>
 <p>🔹Feito isso configure o arquivo .env com as credenciais do banco de dado; </p>
 <p>🔹Starte a back-end com o comando <b>php artisan serve</b> </p>
-<img src="api.gif">
+<img src="api">
 
 
