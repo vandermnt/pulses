@@ -28,7 +28,9 @@ php artisan key:generate
 <p>🔹Feito isso configure o arquivo .env; </p>
 <p>🔹Starte a back-end com o comando:
 
-`php artisan serve`
+~~~html
+php artisan serve
+~~~
 
 <img src="api">
 
