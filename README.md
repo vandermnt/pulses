@@ -11,10 +11,11 @@
 <h1>🛠 Preparando Ambiente </h1>
 
 <h3> Requisitos </h3>
-* PHP
-* Laravel
-* VueJS
-* Mysql
+
+- <a href="https://www.php.net/manual/pt_BR/intro-whatis.php">PHP</a>
+- <a href="https://laravel.com/">Laravel</a>
+- <a href="https://vuejs.org/">VueJS</a>
+- <a href="https://www.mysql.com/"> MySQL </a>
 
 Temos dois projetos, um de back-end e um de front-end. 
 Back-end é feito com <a href="https://www.php.net/manual/pt_BR/intro-whatis.php">PHP</a> agregado ao framework <a href="https://laravel.com/">Laravel</a>, já o front-end é feito com <a href="https://vuejs.org/">VueJS</a>.
